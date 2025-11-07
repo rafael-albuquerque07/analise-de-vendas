@@ -77,4 +77,5 @@ INSERT INTO vendas (id_venda, id_produto, quantidade, data_venda, desconto) VALU
 (27, 15, 5, '2025-10-27', 0.00),
 (28, NULL, 2, '2025-10-28', 0.00),        -- produto nulo
 (29, 6, 1, '2025-10-29', 0.00),
+
 (30, 2, 4, '2025-10-30', 10.00);
